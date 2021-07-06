@@ -5,3 +5,5 @@ My creation is programmer Dvorak with qwerty shortcuts. I made it because no one
 What is special about this is that unlike the other layouts, the number keys are activated when caps lock is on - exactly how the original layout was intended. This allows you to type numbers without holding shift (an annoyance in programmer Dvorak that sacrifices numbers for easy access to symbols)
 
 Created with Microsoft Keyboard Layout Creator.
+
+Note: Only for windows. Linux and Mac already come with this I believe.
