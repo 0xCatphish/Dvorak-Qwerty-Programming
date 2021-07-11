@@ -1,4 +1,4 @@
-As a high school student that enjoys programming and guitar, I am very prone to repetitive strain injuries. I switched to Dvorak looking for ergonomics... and maybe it helped? Anyways, a common annoyance for Dvorak users is not having qwerty shortcuts. This keyboard layout does not utilize drivers like the original and works natively as well as functioning the same. Creator of the original Programmer Dvorak: https://www.kaufmann.no/roland/dvorak/
+As a high school student that enjoys programming and guitar, I am very prone to repetitive strain injuries. I switched to Dvorak looking for ergonomics... and maybe it helped? Anyways, a common annoyance for Dvorak users is not having qwerty shortcuts. This keyboard layout does not utilize drivers like the original, works natively, and functions the same. Creator of the original Programmer Dvorak: https://www.kaufmann.no/roland/dvorak/
 
 My creation is Programmer Dvorak with qwerty shortcuts. I made this because no one else did and I wanted one. CTRL, ALT, and WIN all work with qwerty shortcuts.
 
